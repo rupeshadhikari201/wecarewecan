@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	margin: 0px;
+	padding: 0px auto;
+}
+.App {
+	width: 100%;
+}
+
+.center-slider {
+	margin: 0 auto;
+	max-width: 700px;
+}
+
+.slick-list {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
