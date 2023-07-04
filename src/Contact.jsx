@@ -9,7 +9,6 @@ import { faWhatsappSquare } from "@fortawesome/free-brands-svg-icons";
 import { faAt } from "@fortawesome/free-solid-svg-icons";
 import { ThemeProvider } from "@emotion/react";
 import fontTheme from "./FontTheme";
-import "./footer.css";
 
 const Contact = () => {
 	return (

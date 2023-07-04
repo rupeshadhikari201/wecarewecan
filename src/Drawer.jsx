@@ -8,7 +8,6 @@ import {
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import { useState } from "react";
-// import Contact from "./Contact";
 import "./index.css";
 
 function MuiDrawer() {
@@ -75,8 +74,6 @@ function MuiDrawer() {
 							},
 						}}
 					>
-						{/* <Contact id="contact" /> */}
-
 						<Link href="#about">
 							<Typography varient="h6">ABOUT US</Typography>
 						</Link>

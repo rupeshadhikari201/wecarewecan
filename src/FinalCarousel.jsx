@@ -5,15 +5,12 @@ function MainCarousel() {
 	const data = [
 		{
 			image: "src/assets/slider/first.png",
-			// caption: "San Francisco",
 		},
 		{
 			image: "src/assets/slider/second.png",
-			// caption: "Scotland",
 		},
 		{
 			image: "src/assets/slider/three.png",
-			// caption: "Darjeeling",
 		},
 	];
 

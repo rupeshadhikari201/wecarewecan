@@ -18,7 +18,7 @@ function Programs() {
 			<Container
 				id="programs"
 				sx={{
-					backgroundColor: "#eff	",
+					backgroundColor: "#eff",
 					textAlign: "center",
 					paddingTop: 5,
 					paddingBottom: 5,
@@ -49,7 +49,7 @@ function Programs() {
 								<CardMedia
 									component="img"
 									height="150"
-									image="src\assets\programs\1.jpeg"
+									image="src\assets\programs\2.jpeg"
 									alt="programOne"
 								/>
 
@@ -77,7 +77,7 @@ function Programs() {
 								<CardMedia
 									component="img"
 									height="150"
-									image="src\assets\programs\1.jpeg"
+									image="src\assets\programs\2.jpeg"
 									alt="programOne"
 									sx={{}}
 								/>
@@ -109,7 +109,7 @@ function Programs() {
 								<CardMedia
 									component="img"
 									height="150"
-									image="src\assets\programs\1.jpeg"
+									image="src\assets\programs\2.jpeg"
 									alt="programOne"
 								/>
 
@@ -137,7 +137,7 @@ function Programs() {
 								<CardMedia
 									component="img"
 									height="150"
-									image="src\assets\programs\1.jpeg"
+									image="src\assets\programs\2.jpeg"
 									alt="programOne"
 								/>
 
